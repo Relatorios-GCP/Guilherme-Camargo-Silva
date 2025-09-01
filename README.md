@@ -37,3 +37,7 @@ Workloads](recursos/T-GCPPDE-A-m5-l6-en-file-33.en.pdf)
 [Introduction to Data
 Engineering on Google Cloud - Course Resources
 ](recursos/T-IDEGC-B-m7-l2-en-file-44.en.pdf)
+
+[Modernizing Data Lakes and
+Data Warehouses with Google
+Cloud - Course Resources](recursos/T-DLAKES-I-5-l1-en-file-44.en.pdf)
