@@ -41,3 +41,6 @@ Engineering on Google Cloud - Course Resources
 [Modernizing Data Lakes and
 Data Warehouses with Google
 Cloud - Course Resources](recursos/T-DLAKES-I-5-l1-en-file-44.en.pdf)
+
+[Building Batch Data Pipelines on
+Google Cloud - Course Resources](recursos/T-BATCHD-I-m6-l1-en-file-47.en.pdf)
