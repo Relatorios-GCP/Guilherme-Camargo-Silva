@@ -44,3 +44,7 @@ Cloud - Course Resources](recursos/T-DLAKES-I-5-l1-en-file-44.en.pdf)
 
 [Building Batch Data Pipelines on
 Google Cloud - Course Resources](recursos/T-BATCHD-I-m6-l1-en-file-47.en.pdf)
+
+[Building Resilient Streaming
+Analytics Systems on Google
+Cloud - Course Resource](recursos/T-STREAM-I-7-l1-en-file-29.en.pdf)
